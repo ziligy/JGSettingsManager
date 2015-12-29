@@ -23,7 +23,6 @@
         <!--Navigation Controller-->
         <scene sceneID="RCf-C4-Xow">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="47v-70-qpS" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="FyW-Ae-6Zn" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="yB8-oH-MLF">
@@ -35,6 +34,7 @@
                         <segue destination="atY-bN-RHt" kind="relationship" relationship="rootViewController" id="xbn-Uw-WwF"/>
                     </connections>
                 </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="47v-70-qpS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-129" y="198"/>
         </scene>
