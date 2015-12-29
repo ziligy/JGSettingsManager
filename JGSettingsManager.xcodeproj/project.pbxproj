@@ -118,21 +118,13 @@
 			children = (
 				CE75F29B1C31DA990003FC16 /* JGUserDefault.swift */,
 				CE75F29D1C31DAA30003FC16 /* JGSettingsTableController.swift */,
-				CE75F2A71C31DAC40003FC16 /* SettingsCells */,
-				CE75F2A81C31DADD0003FC16 /* Support */,
-			);
-			path = JGSettingsManager;
-			sourceTree = "<group>";
-		};
-		CE75F2A71C31DAC40003FC16 /* SettingsCells */ = {
-			isa = PBXGroup;
-			children = (
 				CE75F29F1C31DAB00003FC16 /* SwitchTableCell.swift */,
 				CE75F2A01C31DAB00003FC16 /* TextTableCell.swift */,
 				CE75F2A11C31DAB00003FC16 /* StepperTableCell.swift */,
 				CE75F2A21C31DAB00003FC16 /* SegmentedControlTableCell.swift */,
+				CE75F2A81C31DADD0003FC16 /* Support */,
 			);
-			name = SettingsCells;
+			path = JGSettingsManager;
 			sourceTree = "<group>";
 		};
 		CE75F2A81C31DADD0003FC16 /* Support */ = {
