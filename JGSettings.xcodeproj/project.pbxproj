@@ -106,6 +106,7 @@
 		CEDCC09F1C3378D50096459A /* JGSettingsManager */ = {
 			isa = PBXGroup;
 			children = (
+				CEDCC0A01C3378D50096459A /* JGSettingsManager.h */,
 				CEDCC0BD1C337AEE0096459A /* JGUserDefault.swift */,
 				CEDCC0BE1C337AEE0096459A /* JGSettingsTableController.swift */,
 				CEDCC0BF1C337AEE0096459A /* SwitchTableCell.swift */,
@@ -130,7 +131,6 @@
 		CEDCC0BC1C337AD90096459A /* Support */ = {
 			isa = PBXGroup;
 			children = (
-				CEDCC0A01C3378D50096459A /* JGSettingsManager.h */,
 				CEDCC0A21C3378D50096459A /* Info.plist */,
 			);
 			name = Support;
