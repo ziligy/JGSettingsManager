@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Example.xcscheme_^#shared#^_</key>
+		<key>Example.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<true/>
@@ -21,12 +21,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>CE51087A1C31EE4100E1E6F3</key>
+		<key>CEDCC09C1C3378D50096459A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>CE75F28F1C31DA770003FC16</key>
+		<key>CEDCC0A91C3379170096459A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
