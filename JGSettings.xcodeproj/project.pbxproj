@@ -106,13 +106,9 @@
 		CEDCC09F1C3378D50096459A /* JGSettingsManager */ = {
 			isa = PBXGroup;
 			children = (
-				CEDCC0A01C3378D50096459A /* JGSettingsManager.h */,
 				CEDCC0BD1C337AEE0096459A /* JGUserDefault.swift */,
 				CEDCC0BE1C337AEE0096459A /* JGSettingsTableController.swift */,
-				CEDCC0BF1C337AEE0096459A /* SwitchTableCell.swift */,
-				CEDCC0C01C337AEE0096459A /* TextTableCell.swift */,
-				CEDCC0C11C337AEE0096459A /* StepperTableCell.swift */,
-				CEDCC0C21C337AEE0096459A /* SegmentedControlTableCell.swift */,
+				CEDCC0D51C3431E00096459A /* Settings Cells */,
 				CEDCC0BC1C337AD90096459A /* Support */,
 			);
 			path = JGSettingsManager;
@@ -131,6 +127,7 @@
 		CEDCC0BC1C337AD90096459A /* Support */ = {
 			isa = PBXGroup;
 			children = (
+				CEDCC0A01C3378D50096459A /* JGSettingsManager.h */,
 				CEDCC0A21C3378D50096459A /* Info.plist */,
 			);
 			name = Support;
@@ -145,6 +142,17 @@
 				CEDCC0B81C3379180096459A /* Info.plist */,
 			);
 			name = Support;
+			sourceTree = "<group>";
+		};
+		CEDCC0D51C3431E00096459A /* Settings Cells */ = {
+			isa = PBXGroup;
+			children = (
+				CEDCC0BF1C337AEE0096459A /* SwitchTableCell.swift */,
+				CEDCC0C01C337AEE0096459A /* TextTableCell.swift */,
+				CEDCC0C11C337AEE0096459A /* StepperTableCell.swift */,
+				CEDCC0C21C337AEE0096459A /* SegmentedControlTableCell.swift */,
+			);
+			name = "Settings Cells";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
