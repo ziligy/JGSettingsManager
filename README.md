@@ -65,6 +65,13 @@ class SettingsTable: JGSettingsTableController, SettingsSectionsData {
 
 * The JGSettingsManager will save the user's values in NSUserDefaults for persistent storage even when the app is closed.
 
+## Access Settings in App
+* Use the JGUserDefault items
+```
+print(zoomLevel.value())
+```
+*prints the last value from the settings table or the default*
+
 ## Current Settings UI Cells & types
 * Switch
     - Bool
@@ -78,13 +85,6 @@ class SettingsTable: JGSettingsTableController, SettingsSectionsData {
     - String
 
 *or define your own*
-
-## Access Settings in App
-* Use the JGUserDefault items
-```
-print(zoomLevel.value())
-```
-*prints the last value from the settings table or the default*
 
 ## Demo Example
 ***See attached Example project***
